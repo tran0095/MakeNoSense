@@ -5,7 +5,7 @@ public class B{
         this.data = data;
     }
 
-    @override
+    @Override
     public String toString(){
         return new String("Value of data in B is: " 
                         + Integer.toString(data));
